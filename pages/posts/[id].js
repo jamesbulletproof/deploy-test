@@ -10,7 +10,7 @@ export default function Post({ postData }) {
       <Head>
         <title>{postData.title}</title>
       </Head>
-      <h1>Massive change to it here</h1>
+      <h1>Massive change to it here that ive made online</h1>
     </Layout>
   );
 }
